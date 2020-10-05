@@ -1,0 +1,21 @@
+body {
+  display: flex;
+  justify-content: center;
+}
+.container {
+  display: block;
+  width: 500px;
+  margin-top: 120px;
+}
+.title {
+  text-align: center;
+}
+.new-task {
+  display: block;
+  width: 100%;
+  border-radius: 10px;
+  height: 40px;
+  border-width: 1px;
+  text-align: center;
+  font-size: 24px;
+}

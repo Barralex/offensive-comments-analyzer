@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "agile-being-291422",
+  "private_key_id": "a71210d174d0cc1d3f8b7ac0e2fc066d3a983d0e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCYWW6Mk56Lib15\n0YUnmR6pOmtUux0KONdSLPRCo16tMw1nC/BiiAjYinGtIwzssdQy1sEdZ948lDgk\nIa1qRTbpKaR+HLIN3rBi/R43G0KWy76CFxL6ILE0wXQIpcGDtXAS369LJa4UoRzf\n+n9uSL1Sg630UPnWPggXqqGJflfcPBEUMxztqP1Gpyo6rEi5bhRhozLyaK7Ifrml\n0UmVndISdTHlS/CP+KswTKDdHl4/Z0gaRvWz5GrBVEQKJXFzbu94lfIQY91Q2QIp\nAGXXaqg8sXPkLclH0hMDKWNsheC3Y5EdgKspwb5aMk9dBzJfK3vVB3gS/f9py/Va\nn+N+SqIDAgMBAAECggEAA6ac/hRph7mAx2MMeFL0h6SlPs4PF5geHNOD9PbaRXdE\nOnRwScQtxhanO7lrzV5DkgZQcWZ0TmpU4BTIhZPsCXFchkMkxy1Pd8fOCg8GrPtr\n8M0hwMm4xWVfZPen6AKYkXM3zaq0/byQpxNnK1rl4ozSRdkM66Pn6L1HirZy342t\neBrkWaAxrXzLedagkyHq0d+uWnYFOn47MJtzHWIBXwN4n0vZ5yg+/CmIU+MD5k0H\nA7OUfRZEV6sBRi7ie/QzTH8HxGFk08x57KFpdyEw++7aSP5xtVM9WomcEjGW1aJ7\nVr8N1xh7gIygIh39WphRltKS/rgnK48SVhZPZeyvSQKBgQDNfE/cStJ/9jCphFN9\n6FKa6csRDBmI2rjXEvUa27RGfJ2lXUMmYhQZWKpq0x8ydjMBt7i/0u4t3cLK32ye\na05gM5Yf+QFLDmGZYew6bqWO0FqsKPUQiRtttvQF676EFMeneI0glhp9ELKkKsju\nWmekz4pTON83CMh93ebE8fskqwKBgQC9zSGw3MdxjF8y7971ufY8Sy4+ZwXDzB5y\n3Bu37C4MMYmxFR6ud4wI2emwy5dfFMTkDi9PcYGJl/VnsdPbIHdmfHLw6fY4aYnK\n47aB4HjLUsYTzGGaYc8RPlvl+HroYDbah3b9tzepcUBPte56sXDr8dHvvvSp8aQ1\nCV93//MICQKBgDkJS2V7Q0iPflxfRYmKRfuH73yw3hmVlH7mXTByUWzLRDrVU0FB\nMhEDAnKaXWt1UZ0lcNuV4dTLXDlRoOWsJVogl4gSZuB9gmu/uYFSmxO0E6b7y2Im\nnH1srflCwWQKHI0IsiucXofebaeR1KoMX/5oOR32iEbPYk9Fm7uI60v3AoGAQmqG\nsJIBRI2fPn7LoWcKcDzKmNGKJeLGgODe3jRKRMAM86d1Tg3NNcezS8diV8Y3w6nn\nCkCo2JIRMND8VoB856MCwaTNIR5lNlcKpVX8TwHPCFyLhu9U+y68D7QspiYM69ld\nXRkA5E0Z+QqrwclXv2imUuOaT+Gb2WdHPgGVdKkCgYBr1V7jb5IuzFSn5n/vJvuY\nFZ4DTe3YNkgVYLFAAGzy2LzzeWS2d3NESo+bxnogNYUM2LLDMkHDxqvxOLL87yWf\n6GuZmYsDwRf9/NEfC+S9T+2YIKqmJ8Xg/E2TYZj0qIi8yvvpRsmWUdNe4wbFPw5H\nh6zCGOIxn50RFD+y9e4uRQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "cloud-sentiment-analysis@agile-being-291422.iam.gserviceaccount.com",
+  "client_id": "100673163972669814846",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/cloud-sentiment-analysis%40agile-being-291422.iam.gserviceaccount.com"
+}

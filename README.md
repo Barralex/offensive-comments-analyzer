@@ -17,10 +17,10 @@ React and Node JS application using the google natural language api to detect of
 ## Built With
 
 * [NodeJs](https://nodejs.org/) -  JavaScript runtime built on Chrome's V8 JavaScript engine.
-* [Express] (https://expressjs.com/) - Fast, unopinionated, minimalist web framework for Node.js
+* [Express](https://expressjs.com/) - Fast, unopinionated, minimalist web framework for Node.js
 * [React](https://reactjs.org/) - A JavaScript library for building user interfaces
-* [Google Sentiment API] (https://cloud.google.com/natural-language) - Derive insights from unstructured text using Google machine learning
-* [Axios] (https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js
+* [Google Sentiment API](https://cloud.google.com/natural-language) - Derive insights from unstructured text using Google machine learning
+* [Axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js
 
 ## Authors
 
